@@ -1,5 +1,3 @@
-# Student submission for Milestone 0
-"""
 DATASET: Formula 1 World Championship (1950 - 2024)
 SOURCE: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
 DESCRIPTION: Results of every Formula 1 race from 1950 to 2024 (1,125 races),
@@ -61,4 +59,3 @@ INITIAL QUALITY AUDIT (results.csv):
   - Coverage differs: results go back to 1950, qualifying 1994, pit stops 2011
 - Other tables: 14 files, about 701,000 rows in total; lap_times.csv is the
   largest (589,081 rows)
-"""
